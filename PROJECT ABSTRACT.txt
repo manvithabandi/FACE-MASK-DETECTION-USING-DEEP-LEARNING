@@ -1,0 +1,14 @@
+Abstract: -
+Coronavirus is a transmissible virus that causes breathing droplets, and it leads to death. 
+It is infected from others by talking, coughing, and sneezing. 
+Interaction between the infected person or through touching a contaminated surface and object 
+can spread the virus rapidly. The best way to prevent it by infecting is to wear a mask 
+that covers nose and mouth when we are at crowded places.  It is not possible to watch every 
+single person whether they are wearing a mask or not. so, we can use the detection of face mask in cameras.
+ Deep Learning technologies is well known in recognition and classification by processing images.
+ (The research study uses deep learning techniques that identify if the person is wearing a facemask or 
+not and check if the persons in the area observe physical distancing. The collected image data contains
+ 1,000 images, uniformly crop images in 224x224 pixels, and attained an accuracy rate of 97% during
+ the training of the model. The developed system is implemented using Python and CNN through TensorFlow 
+that recognizes persons wearing a facemask or not wearing. This study is helpful in controlling the 
+spread of the virus and avoiding contact with the virus.)
